@@ -1,2 +1,2 @@
 # fraud-detection-project
-detection of fraud cases for e-commerce transactions and bank credit transactions
+detection of fraud cases for e-commerce and bank credit transactions
