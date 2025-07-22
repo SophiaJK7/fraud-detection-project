@@ -1,3 +1,6 @@
 # Ignore all data subfolders
 data/raw/
 data/processed/
+
+# Ignore virtual environment
+venv
